@@ -4,6 +4,15 @@
 ## Description
 This project focuses on analyzing YouTube trending videos using the YouTube Data API. It allows you to extract detailed information about trending videos, such as video details, content statistics, and more, using Python. The project is designed to help understand YouTube trends and gather insights from the available data.
 
+## Table of Contents
+- [Features](#features)
+- [Installation](#installation)
+  - [Setup Instructions](#setup-instructions)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+
+
 ## Features
 - Fetches trending videos data from YouTube using the YouTube Data API.
 - Extracts detailed information such as video statistics, content details, and metadata.
