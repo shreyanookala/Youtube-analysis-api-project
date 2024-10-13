@@ -61,6 +61,4 @@ youtube-analysis-project/
 
 Contributions are welcome! Please fork this repository and submit a pull request for any improvements or suggestions.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
